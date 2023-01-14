@@ -169,7 +169,7 @@
 
 	<div class="relative w-full flex justify-center items-center">
 		<div class="absolute top-0 bottom-0 h-full w-full h-[240px] bg-gradient-to-b from-white to-transparent z-[1]"></div>
-		<img src="https://img.freepik.com/free-photo/birch-forest-sunny-afternoon-while-autumn-season_146671-19510.jpg?w=1480&t=st=1672376159~exp=1672376759~hmac=4c715a6ba9c4a464525c2bc4dfe19b7b61ce76f69f4d657492779a1c19a4694c">
+		<img src="https://img.freepik.com/free-photo/birch-forest-sunny-afternoon-while-autumn-season_146671-19510.jpg?w=1480&t=st=1672376159~exp=1672376759~hmac=4c715a6ba9c4a464525c2bc4dfe19b7b61ce76f69f4d657492779a1c19a4694c" class="w-full">
 		<span class="absolute text-white font-Anton text-[72px]">PHOTO</span>
 	</div>
 
