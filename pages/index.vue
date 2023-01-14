@@ -56,7 +56,7 @@
 			</span>
 			<span class="flex space-x-12 justify-center text-[16px] text-white font-Anton tracking-[12px]">- DANIEL KOROAN -</span>
 			<span class="text-white text-[32px] sm:text-[48px] font-Anton tracking-[2px]">Landscape <span class="text-[#ff5500]">Photography</span></span>
-
+<!-- 
 			<div class="flex flex-col justify-center items-center">
 			<p class="font-Anton text-white text-[32px]">{{ cookieshow }}</p>
 			<button 
@@ -70,7 +70,7 @@
 			class="font-Anton text-white text-[18px] bg-gray-900/70 px-2 py-1 tracking-[1px] rounded-sm mt-4">True / False</button>
 
 			</div>
-
+ -->
 			<div 
 			class="w-full h-[90px] flex flex-row rounded-lg" 
 			style="background: linear-gradient(45deg, rgb(0, 0, 0) 10%, rgba(0, 0, 0, 0) 70%);">
